@@ -25,6 +25,15 @@ a{
   width: 50%;
   margin: 100px auto;
   text-align: left;
+  line-height: 2;
+}
+.skill-images{
+  width: 25%;
+  float: left;
+  position: relative;
+  right: 30px;
+}
+
 }
 .text-pos{
   position: relative;
